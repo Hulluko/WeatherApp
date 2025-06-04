@@ -36,7 +36,7 @@ namespace WeatherApp
 
             e.SuppressKeyPress = true;
 
-            // Get and clean city name
+            // Get and clear city name
             string city = txtCity.Text.Trim();
             city = System.Globalization.CultureInfo.CurrentCulture.TextInfo.ToTitleCase(city.ToLower());
 

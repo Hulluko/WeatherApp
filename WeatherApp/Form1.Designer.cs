@@ -40,7 +40,7 @@
             // 
             // txtCity
             // 
-            this.txtCity.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.txtCity.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.txtCity.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtCity.Location = new System.Drawing.Point(12, 221);
             this.txtCity.Name = "txtCity";
@@ -51,7 +51,7 @@
             // 
             // lblResult
             // 
-            this.lblResult.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.lblResult.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.lblResult.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lblResult.Location = new System.Drawing.Point(12, 9);
             this.lblResult.Name = "lblResult";
@@ -62,7 +62,7 @@
             // 
             // picWeather
             // 
-            this.picWeather.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.picWeather.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.picWeather.Location = new System.Drawing.Point(34, 152);
             this.picWeather.Name = "picWeather";
             this.picWeather.Size = new System.Drawing.Size(99, 63);
@@ -74,14 +74,14 @@
             // 
             this.forecastPanel.AutoScroll = true;
             this.forecastPanel.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.forecastPanel.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.forecastPanel.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.forecastPanel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.forecastPanel.Location = new System.Drawing.Point(161, 9);
             this.forecastPanel.Name = "forecastPanel";
             this.forecastPanel.Size = new System.Drawing.Size(652, 232);
             this.forecastPanel.TabIndex = 4;
             // 
-            // MainForm
+            // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -90,7 +90,7 @@
             this.Controls.Add(this.picWeather);
             this.Controls.Add(this.forecastPanel);
             this.Controls.Add(this.lblResult);
-            this.Name = "MainForm";
+            this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.picWeather)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).EndInit();
