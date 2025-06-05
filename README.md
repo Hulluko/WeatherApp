@@ -13,7 +13,7 @@ The app shows the current day weather and 5-day forecast for the city:
 If the city name is not valid, you get an error message:
 ![Error](https://github.com/user-attachments/assets/aed5604e-21e3-4002-b43c-6bde348c1940)
 
-The use for the app is to search and see weather info on any city in the world
+The use for the app is to search and see weather info on any city in the world.
 
 Key code highlights:
 
