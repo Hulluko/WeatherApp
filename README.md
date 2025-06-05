@@ -30,4 +30,4 @@ Building the forecast panel:
 ![Forecast](https://github.com/user-attachments/assets/54959c94-bb08-4348-a0ac-cf7efa268557)
 
 Further developemnt ideas:
-Search different types of weather info and more specific days and/or longer forecasts.
+Search different types of weather info and more specific days and/or longer forecasts, better UI, language selection, detect user location with GPS.
